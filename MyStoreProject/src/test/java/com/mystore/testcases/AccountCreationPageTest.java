@@ -16,6 +16,7 @@ import com.mystore.utility.Log;
 public class AccountCreationPageTest extends BaseClass {
 	private IndexPage indexPage;
 	private LoginPage loginPage;
+	private int asdads;
 	private AccountCreationPage acountCreationPage;
 	private HomePage homePage;
 	
